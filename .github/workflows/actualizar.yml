@@ -1,0 +1,31 @@
+name: Actualizar calendario economico
+
+on:
+  schedule:
+    - cron: "0 9 1 * *"   # dia 1 de cada mes, 09:00 UTC
+  workflow_dispatch: {}    # boton para correrlo a mano
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+      - name: Generar ar.ics y uy.ics
+        run: python gen.py
+      - name: Commit si hubo cambios
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add ar.ics uy.ics
+          if git diff --cached --quiet; then
+            echo "Sin cambios."
+          else
+            git commit -m "Actualizacion automatica del calendario ($(date -u +%Y-%m-%d))"
+            git push
+          fi
