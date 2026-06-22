@@ -1,0 +1,1390 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Calendario Economico AR-UY//ES//
+CALSCALE:GREGORIAN
+X-WR-CALNAME:Economia Uruguay
+X-WR-TIMEZONE:America/Argentina/Buenos_Aires
+COLOR:darkorange
+X-APPLE-CALENDAR-COLOR:#E8820C
+REFRESH-INTERVAL;VALUE=DURATION:PT12H
+X-PUBLISHED-TTL:PT12H
+X-WR-CALDESC:Publicaciones economicas oficiales. Fuentes: INDEC\, BCRA\, Mi
+ n. Economia (AR) - INE\, BCU\, MEF (UY).
+BEGIN:VEVENT
+UID:b268d4329592647c5b5f6269b2ac6eb0@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de abril 2026\\nEstado de la fecha: Estimada p
+ or patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadisti
+ cas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Econo
+ mica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26cae7de7161e00f61f945ee237b17fb@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:~ Balanza de Pagos (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Balanza de Pagos\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de 1er trimestre 2026\\nEstado de la fecha: Es
+ timada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/E
+ stadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.asp
+ x
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0d00c38c784aa4fa8f9ddd3f64771e03@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de mayo 2026\\nEstado de la fecha: 
+ Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy
+ /Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.a
+ spx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:dad9d19288a88bc76ee933d67e018189@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260630
+DTEND;VALUE=DATE:20260701
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de mayo 2026\\nEstado de la fec
+ ha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub.uy
+ /ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:549c5447d683c0c7c0b799bffced7563@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260703
+DTEND;VALUE=DATE:20260704
+SUMMARY:Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de junio 2026\\nEstado de la fecha: Confirmada 
+ (calendario oficial)\\nFuente oficial: https://www.gub.uy/instituto-nacion
+ al-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d97d17997614d3fad2eb135d471f7cf6@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de mayo 2026\\nEstado de la fecha: Estimada po
+ r patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadistic
+ as-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Econom
+ ica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:111f3cadae182988cd64cfa6c0b1576e@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de junio 2026\\nEstado de la fecha:
+  Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.u
+ y/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.
+ aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2d17a503be513d1ae8e041d0551cb736@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260731
+DTEND;VALUE=DATE:20260801
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de junio 2026\\nEstado de la fe
+ cha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub.u
+ y/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc4415585417ae45b5c9c9309514a9f@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260805
+DTEND;VALUE=DATE:20260806
+SUMMARY:Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de julio 2026\\nEstado de la fecha: Confirmada 
+ (calendario oficial)\\nFuente oficial: https://www.gub.uy/instituto-nacion
+ al-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d579b7d03140b07c0a8e2db331de3f71@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de junio 2026\\nEstado de la fecha: Estimada p
+ or patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadisti
+ cas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Econo
+ mica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e4df2fbcf737df2f9af4029eda54e784@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de julio 2026\\nEstado de la fecha:
+  Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.u
+ y/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.
+ aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:6edd3aa941bc3d072df83192cc2ab922@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260831
+DTEND;VALUE=DATE:20260901
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de julio 2026\\nEstado de la fe
+ cha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub.u
+ y/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a4f21c44d1ec6d0847f357ec63080d5f@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260904
+DTEND;VALUE=DATE:20260905
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de agosto 2026\\nEstado de la fecha: Estimada p
+ or patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-nac
+ ional-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de9f0348ecf40a01a018042db03cfddc@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260915
+DTEND;VALUE=DATE:20260916
+SUMMARY:~ PBI trimestral - Cuentas Nacionales (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: PBI trimestral - Cuentas Nacionales\
+ \nOrganismo: BCU\\nPeriodo de referencia: dato de 2do trimestre 2026\\nEst
+ ado de la fecha: Estimada por patron - a confirmar\\nFuente oficial: https
+ ://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/informe-trimestral-cu
+ entas-nacionales.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/informe-trime
+ stral-cuentas-nacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:26a37b7dcf8ab434ff3d20df2e3f76e6@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de julio 2026\\nEstado de la fecha: Estimada p
+ or patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadisti
+ cas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Econo
+ mica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:110d5928fcdfd67b1210f5cfdd0f9763@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:~ Balanza de Pagos (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Balanza de Pagos\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de 2do trimestre 2026\\nEstado de la fecha: Es
+ timada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/E
+ stadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.asp
+ x
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4074e9a1cdecfba7cdb8602074ee9419@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de agosto 2026\\nEstado de la fecha
+ : Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.
+ uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales
+ .aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:de0329c9aace1ff96e075509f8d61961@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20260930
+DTEND;VALUE=DATE:20261001
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de agosto 2026\\nEstado de la f
+ echa: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub.
+ uy/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9462eff6c6e8eff8f7017f24177c153a@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261005
+DTEND;VALUE=DATE:20261006
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de septiembre 2026\\nEstado de la fecha: Estima
+ da por patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto
+ -nacional-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bdb53c41cf9c481c55482c4ac64640aa@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de agosto 2026\\nEstado de la fecha: Estimada 
+ por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadist
+ icas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Econ
+ omica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e230c26ec0a40358738581a5c550b009@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de septiembre 2026\\nEstado de la f
+ echa: Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.
+ gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacion
+ ales.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:cc45e9f435410c1c23190ac7a4fd98fc@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261030
+DTEND;VALUE=DATE:20261031
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de septiembre 2026\\nEstado de 
+ la fecha: Estimada por patron - a confirmar\\nFuente oficial: https://www.
+ gub.uy/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:2ff26de9635ee7f0ef1ab0f17d6d1560@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261104
+DTEND;VALUE=DATE:20261105
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de octubre 2026\\nEstado de la fecha: Estimada 
+ por patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-na
+ cional-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:53c3fa6805becc6f87efac0138eeba6d@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de septiembre 2026\\nEstado de la fecha: Estim
+ ada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Esta
+ disticas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-
+ Economica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11a57a2e23e54eb283fa8f6eeaa55d4e@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de octubre 2026\\nEstado de la fech
+ a: Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub
+ .uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionale
+ s.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:abc7df2da50250731e1ae77fda9b9596@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261130
+DTEND;VALUE=DATE:20261201
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de octubre 2026\\nEstado de la 
+ fecha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub
+ .uy/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:4c1b50e46c5a40eb083db80ee9fd09ea@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261204
+DTEND;VALUE=DATE:20261205
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de noviembre 2026\\nEstado de la fecha: Estimad
+ a por patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-
+ nacional-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e95754300ea26f347b302fa1851ff3ab@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261216
+SUMMARY:~ PBI trimestral - Cuentas Nacionales (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: PBI trimestral - Cuentas Nacionales\
+ \nOrganismo: BCU\\nPeriodo de referencia: dato de 3er trimestre 2026\\nEst
+ ado de la fecha: Estimada por patron - a confirmar\\nFuente oficial: https
+ ://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/informe-trimestral-cu
+ entas-nacionales.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/informe-trime
+ stral-cuentas-nacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:11a39e21fd3e0ad0e72dfa71f9ca7844@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de octubre 2026\\nEstado de la fecha: Estimada
+  por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadis
+ ticas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Eco
+ nomica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:fb604727e31969edadd3f0706e876790@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:~ Balanza de Pagos (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Balanza de Pagos\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de 3er trimestre 2026\\nEstado de la fecha: Es
+ timada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/E
+ stadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.asp
+ x
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:44a19bf2dd36da264d4291274e40e48d@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de noviembre 2026\\nEstado de la fe
+ cha: Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.g
+ ub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internaciona
+ les.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:23840295823adc43bd726fc75a3bf723@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20261231
+DTEND;VALUE=DATE:20270101
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de noviembre 2026\\nEstado de l
+ a fecha: Estimada por patron - a confirmar\\nFuente oficial: https://www.g
+ ub.uy/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:95debdd2565b4241937b89ab6143d52d@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270104
+DTEND;VALUE=DATE:20270105
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de diciembre 2026\\nEstado de la fecha: Estimad
+ a por patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-
+ nacional-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:964cdd0150c19b10742626af9a77e32a@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de noviembre 2026\\nEstado de la fecha: Estima
+ da por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estad
+ isticas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-E
+ conomica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:d42759aea048b9f244aca18e7e3243d6@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de diciembre 2026\\nEstado de la fe
+ cha: Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.g
+ ub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internaciona
+ les.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ae3598ed83024f74b9490e62779ba16a@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270129
+DTEND;VALUE=DATE:20270130
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de diciembre 2026\\nEstado de l
+ a fecha: Estimada por patron - a confirmar\\nFuente oficial: https://www.g
+ ub.uy/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:7652213606a79b731daa4adc7e6c4367@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270204
+DTEND;VALUE=DATE:20270205
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de enero 2027\\nEstado de la fecha: Estimada po
+ r patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-naci
+ onal-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e47425842bc2a440aaea55b795eb99c4@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de diciembre 2026\\nEstado de la fecha: Estima
+ da por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estad
+ isticas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-E
+ conomica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:359a53ddb7d7b383b63ccd7a9014df00@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de enero 2027\\nEstado de la fecha:
+  Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.u
+ y/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.
+ aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9a1d7bd313989cc6ee4f96dce77d54d6@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270226
+DTEND;VALUE=DATE:20270227
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de enero 2027\\nEstado de la fe
+ cha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub.u
+ y/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:98fb5400b97d780d442333463955e25f@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270304
+DTEND;VALUE=DATE:20270305
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de febrero 2027\\nEstado de la fecha: Estimada 
+ por patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-na
+ cional-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9d099a43852054d789493eeddc91a6@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270315
+DTEND;VALUE=DATE:20270316
+SUMMARY:~ PBI trimestral - Cuentas Nacionales (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: PBI trimestral - Cuentas Nacionales\
+ \nOrganismo: BCU\\nPeriodo de referencia: dato de 4to trimestre 2026\\nEst
+ ado de la fecha: Estimada por patron - a confirmar\\nFuente oficial: https
+ ://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/informe-trimestral-cu
+ entas-nacionales.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/informe-trime
+ stral-cuentas-nacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0a293d0b53be26b5004a0d7535e03bdf@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de enero 2027\\nEstado de la fecha: Estimada p
+ or patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadisti
+ cas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Econo
+ mica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:e4811a64e1870bfa9e6f867a3404fd6f@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:~ Balanza de Pagos (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Balanza de Pagos\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de 4to trimestre 2026\\nEstado de la fecha: Es
+ timada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/E
+ stadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.asp
+ x
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b6ed231de9e3f8291e8bd6a5d7745d9a@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de febrero 2027\\nEstado de la fech
+ a: Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub
+ .uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionale
+ s.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0427f2eac8c213d213265812de7aeb98@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270331
+DTEND;VALUE=DATE:20270401
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de febrero 2027\\nEstado de la 
+ fecha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub
+ .uy/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:c18a3e09f74aed8a9745107910b4bf77@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270405
+DTEND;VALUE=DATE:20270406
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de marzo 2027\\nEstado de la fecha: Estimada po
+ r patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-naci
+ onal-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc9c5cff3151f4b8e08df2af1801cd7@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de febrero 2027\\nEstado de la fecha: Estimada
+  por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadis
+ ticas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Eco
+ nomica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:0772d5f8ee0b27aee3e55e1e643ac726@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de marzo 2027\\nEstado de la fecha:
+  Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.u
+ y/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.
+ aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:ff9da69fc526a08f48d954363f407cf7@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270430
+DTEND;VALUE=DATE:20270501
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de marzo 2027\\nEstado de la fe
+ cha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub.u
+ y/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:940d8de2e0cd943e35fc29d33269aa77@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270504
+DTEND;VALUE=DATE:20270505
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de abril 2027\\nEstado de la fecha: Estimada po
+ r patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-naci
+ onal-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:905f7de37d824a426b12f3cb11754d85@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de marzo 2027\\nEstado de la fecha: Estimada p
+ or patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadisti
+ cas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Econo
+ mica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a57c43a5ccac3d4e3db34d4b0a945351@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de abril 2027\\nEstado de la fecha:
+  Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.u
+ y/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.
+ aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:866bde92a4998f01209ea479b7b91acc@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270531
+DTEND;VALUE=DATE:20270601
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de abril 2027\\nEstado de la fe
+ cha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub.u
+ y/ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:a3a0e4259b8295cda2ee19166989584d@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270604
+DTEND;VALUE=DATE:20270605
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de mayo 2027\\nEstado de la fecha: Estimada por
+  patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-nacio
+ nal-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:f78b9cf4a1db0689703aef31c2667c25@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270615
+DTEND;VALUE=DATE:20270616
+SUMMARY:~ PBI trimestral - Cuentas Nacionales (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: PBI trimestral - Cuentas Nacionales\
+ \nOrganismo: BCU\\nPeriodo de referencia: dato de 1er trimestre 2027\\nEst
+ ado de la fecha: Estimada por patron - a confirmar\\nFuente oficial: https
+ ://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/informe-trimestral-cu
+ entas-nacionales.aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/informe-trime
+ stral-cuentas-nacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:b68cc8bba523ee626eb2faa148857155@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:~ Actividad - IMAE (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Actividad - IMAE\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de abril 2027\\nEstado de la fecha: Estimada p
+ or patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/Estadisti
+ cas-e-Indicadores/Paginas/Informe-del-Indicador-Mensual-de-Actividad-Econo
+ mica-(IMAE).aspx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Informe-del-I
+ ndicador-Mensual-de-Actividad-Economica-(IMAE).aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:65b26c3dc9f3ea7ff28ce1923bf7efae@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:~ Balanza de Pagos (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Balanza de Pagos\\nOrganismo: BCU\\n
+ Periodo de referencia: dato de 1er trimestre 2027\\nEstado de la fecha: Es
+ timada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy/E
+ stadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.asp
+ x
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:9f0c1a5e27e08b8a4e2826de2645b96b@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:~ Comercio exterior de bienes (BCU)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Comercio exterior de bienes\\nOrgani
+ smo: BCU\\nPeriodo de referencia: dato de mayo 2027\\nEstado de la fecha: 
+ Estimada por patron - a confirmar\\nFuente oficial: https://www.bcu.gub.uy
+ /Estadisticas-e-Indicadores/Paginas/Cuentas-Nacionales-e-Internacionales.a
+ spx
+URL:https://www.bcu.gub.uy/Estadisticas-e-Indicadores/Paginas/Cuentas-Nacio
+ nales-e-Internacionales.aspx
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:920900e4704db4745b16a9aa88a1c765@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270630
+DTEND;VALUE=DATE:20270701
+SUMMARY:~ Resultado fiscal Sector Publico (MEF)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Resultado fiscal Sector Publico\\nOr
+ ganismo: MEF\\nPeriodo de referencia: dato de mayo 2027\\nEstado de la fec
+ ha: Estimada por patron - a confirmar\\nFuente oficial: https://www.gub.uy
+ /ministerio-economia-finanzas/tematica/resultados-del-sector-publico
+URL:https://www.gub.uy/ministerio-economia-finanzas/tematica/resultados-del
+ -sector-publico
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:947b4cf19251b601295d583a82e957f9@cal-econ-aruy
+DTSTAMP:20260622T142637Z
+SEQUENCE:0
+DTSTART;VALUE=DATE:20270705
+DTEND;VALUE=DATE:20270706
+SUMMARY:~ Inflacion - IPC (INE)
+DESCRIPTION:Pais: Uruguay\\nIndicador: Inflacion - IPC\\nOrganismo: INE\\nP
+ eriodo de referencia: dato de junio 2027\\nEstado de la fecha: Estimada po
+ r patron - a confirmar\\nFuente oficial: https://www.gub.uy/instituto-naci
+ onal-estadistica/indice-precios-consumo
+URL:https://www.gub.uy/instituto-nacional-estadistica/indice-precios-consum
+ o
+CATEGORIES:Uruguay
+STATUS:TENTATIVE
+TRANSP:TRANSPARENT
+BEGIN:VALARM
+ACTION:DISPLAY
+DESCRIPTION:Recordatorio
+TRIGGER:-PT15H
+END:VALARM
+END:VEVENT
+END:VCALENDAR
